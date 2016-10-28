@@ -1,18 +1,3 @@
-# HackingMemes
-HAHA I TOOK OVER YOUR README
-EDITITITITITIT
-
-#HAXXXX
-
-this is ar eadme
-
-This is for the pr
-
-lol2
-
-lol3
-
-lol4
-
-OOLOO
-
+This is my readme
+There are lots of readme's
+But this one is mine
