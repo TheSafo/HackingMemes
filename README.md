@@ -1,10 +1,4 @@
 # HackingMemes
-Lol
+HAHA I TOOK OVER YOUR README
 
-this is ar eadme
-
-This is for the pr
-
-lol2
-
-lol3
+#HAXXXX
